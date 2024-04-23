@@ -1,0 +1,1 @@
+String loginBg = "assets/loginbg.json";
